@@ -1,6 +1,6 @@
 .custom-bg-body {
-  background-color: rgb(13, 26, 79);
-  color: aliceblue;
+  background-color: rgb(4, 27, 64);
+  color: rgb(198, 220, 239);
   height: 5000px;
   overflow-x: hidden;
 }
@@ -14,4 +14,10 @@
   top: 0;
   left: 0;
   z-index: -1;
+}
+
+
+.custom-bg-color-water-cycle {
+  background-color: rgb(4, 27, 64);
+  color: rgb(198, 220, 239);
 }
