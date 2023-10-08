@@ -1,24 +1,14 @@
-# README
+# Everything Starts with Water
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Image taken from NASA resources:
 
-Things you may want to cover:
+[Images](https://images-assets.nasa.gov/image/STS057-73-075/STS057-73-075~large.jpg)
 
-* Ruby version
+[Earth](https://images.nasa.gov/search?q=rivers&page=1&media=image&yearStart=1920&yearEnd=2023)
 
-* System dependencies
+NASA Image Library: [images](https://api.nasa.gov/#browseAPI)
 
-* Configuration
 
-* Database creation
+Video:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Water Cycle](https://images.nasa.gov/search?q=water%20cycle&page=1&media=image,video&yearStart=1920&yearEnd=2023)
