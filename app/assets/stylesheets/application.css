@@ -17,3 +17,8 @@
  @btn;
  @body;
  
+ div.col.card-body {
+  background-color: #061922;
+  font: 16px Roboto, sans-serif;
+  color: rgb(219, 222, 224);
+}

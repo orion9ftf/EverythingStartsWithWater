@@ -1,5 +1,5 @@
 .custom-bg-body {
-  background-color: black;
+  background-color: rgb(13, 26, 79);
   color: aliceblue;
   height: 5000px;
   overflow-x: hidden;
@@ -14,14 +14,4 @@
   top: 0;
   left: 0;
   z-index: -1;
-}
-
-iframe {
-  float: left;
-    padding: 10px;
-    width: 70%;
-    margin-top: 40px;
-    margin-left: 20px;
-    background-color: seagreen;
-    border-radius: 3rem;
 }
